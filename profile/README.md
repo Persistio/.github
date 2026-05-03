@@ -17,7 +17,9 @@ Persistio is a self-hosted, API-first memory service for AI agents. It automatic
 
 ## Repositories
 
-→ **[Persistio/server](https://github.com/Persistio/server)** — self-hosted memory server: Dockerfile, Docker Compose, configuration reference, and full API docs
+→ **[Persistio/docs](https://github.com/Persistio/docs)** — developer documentation: getting started, full API reference, and integration guide
+
+→ **[Persistio/server](https://github.com/Persistio/server)** — self-hosted memory server: Dockerfile, Docker Compose, and configuration reference
 
 → **[Persistio/openclaw-persistio](https://github.com/Persistio/openclaw-persistio)** — OpenClaw plugin: install guide, configuration reference, and hydration script
 
